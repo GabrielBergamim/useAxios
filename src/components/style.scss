@@ -1,0 +1,12 @@
+article {
+  padding: 16px;
+}
+
+.container-pokemon {
+  display: flex;
+  margin: 10px 0;
+
+  > div {
+    margin-right: 25px;
+  }
+}
